@@ -39,7 +39,7 @@ let main args =
 open System
 
 // Функция для поиска минимальной цифры в числе
-let rec min_d n min =
+let rec min_d (n : int) (min : int) : int =
     if n = 0 then min
     else
         let digit = n % 10
