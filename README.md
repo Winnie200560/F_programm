@@ -7,7 +7,7 @@
 ```
 open System
 
-let spisok x =
+let spisok (x : int) : int list =
     [
     for i in 1..x do
         printf "Введите число %d: " i
