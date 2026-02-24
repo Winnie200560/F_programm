@@ -27,6 +27,8 @@ let main args =
 ### Тестирование
 
 <img width="1478" height="749" alt="image" src="https://github.com/user-attachments/assets/6e6e6f9b-e732-4fee-a40e-2ab73bfbcbd6" />
+<img width="1482" height="442" alt="image" src="https://github.com/user-attachments/assets/75316b78-d3fd-4a23-bb45-8c03106b1a2b" />
+
 
 ## Задание 2
 ### Текст задачи
