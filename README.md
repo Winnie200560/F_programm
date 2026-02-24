@@ -33,6 +33,7 @@ let main args =
 Найти минимальную цифру натурального числа.
 ### Алгоритм решения
 ```
+open System
 let rec min_d n min =
     if n = 0 then min
     else
