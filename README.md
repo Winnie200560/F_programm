@@ -65,6 +65,7 @@
 <img width="1475" height="225" alt="image" src="https://github.com/user-attachments/assets/b730bf3b-f24d-4c91-b570-7c48b3b83c9a" />
 <img width="1476" height="258" alt="image" src="https://github.com/user-attachments/assets/dabf5d7b-2307-4c03-aeea-b22a3c4ed4ea" />
 <img width="1480" height="114" alt="image" src="https://github.com/user-attachments/assets/5b362e76-d08b-4fb8-bad7-ea611ca6b76e" />
+
 ## Задание 2
 ### Текст задачи
 Найти сумму тех элементов списка, которые начинаются на заданную цифру.
@@ -75,6 +76,7 @@
 4. Функция firstDigit находит первую цифру числа.
 5. List.fold проходит по списку, накапливает сумму только тех элементов, у которых первая цифра совпадает с заданной.
 6. Вывод итоговой суммы.
+
 ### Тестирование
 <img width="1474" height="277" alt="image" src="https://github.com/user-attachments/assets/c9d8f0e5-d833-486c-ab77-94e3bab312f1" />
 <img width="1477" height="248" alt="image" src="https://github.com/user-attachments/assets/0aff72ed-2855-4bf5-9d13-9c66bee14156" />
